@@ -5,5 +5,4 @@
 [Game](src/game.md)
 
 
-[gimmick:theme](cosmo)
-[gimmick:themechooser](Choose theme)
+[gimmick:theme](flatly)
