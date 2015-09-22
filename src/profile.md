@@ -1,6 +1,6 @@
 # Profile
 
-## Accounts
+## Account
 
 ### Mail
 @gmail.com : chunkoffset
